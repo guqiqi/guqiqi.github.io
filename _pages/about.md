@@ -30,6 +30,7 @@ My research interests includes **System Optimization for Artificial Intelligence
 
 # 📝 Publications 
 
+- [*PPoPP'26*] **Qiqi Gu**\*, Chenpeng Wu\*, Heng Shi, and Jianguo Yao. SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping, in Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming. 2026.
 - [*EuroSys'25*] Chenpeng Wu\*, **Qiqi Gu**\*, Heng Shi, Jianguo Yao, and Haibing Guan. Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores, in Proceedings of the Twentieth European Conference on Computer Systems. 2025: 293-310.
 
 <!-- # 🎖 Honors and Awards
