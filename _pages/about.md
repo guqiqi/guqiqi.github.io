@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Qiqi! I'm currently a Doctor of Philosophy (PhD) candidate in Computer Science at the Shanghai Key Laboratory of Scalable Computing and Systems, Shanghai Jiao Tong University. I earned my Master of Engineering in Software Engineering from Shanghai Jiao Tong University between September 2020 and March 2023, advised by Prof. Jianguo Yao. Previously, I obtained my Bachelor of Engineering in Software Engineering from Nanjing University, graduating in 2020 after commencing my studies in 2016.
+Hi, this is Qiqi! I'm currently a PhD student in Computer Science at the Shanghai Key Laboratory of Scalable Computing and Systems, Shanghai Jiao Tong University. I earned my Master of Engineering in Software Engineering from Shanghai Jiao Tong University between September 2020 and March 2023, advised by Prof. Jianguo Yao. Previously, I obtained my Bachelor of Engineering in Software Engineering from Nanjing University, graduating in 2020 after commencing my studies in 2016.
 
 My research interests includes **System Optimization for Artificial Intelligence and High-Performance Computation (HPC)**. Notably, my work on uncovering the structured sparsity patterns within Large Language Models (LLMs) and accelerating Mixture-of-Experts (MoE) models through Sparse Tensor Cores has been accepted by EuroSys 2025. Additionally, I am currently engaged in researching methods to accelerate LLM Systems using emerging hardware technologies.
 
@@ -30,6 +30,8 @@ My research interests includes **System Optimization for Artificial Intelligence
 
 # 📝 Publications 
 
+- [*SC'26*] **Qiqi Gu**\*, Chenpeng Wu\*, Heng Shi, Jianguo Yao, and Haibing Guan. Do We Need Tensor Cores for Stencil Computations?, in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. 2026. **Best Student Paper Nominee.**
+- [*SC'26*] Heng Shi, **Qiqi Gu**, Chenpeng Wu, Xiaofeng Guan, Sijie Wu, Enming Fan, Guoqing Bao, and Jianguo Yao. Pushing the Limits of Structured Sparse GEMM on Hopper GPUs via Analytical Modeling, in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. 2026.
 - [*PPoPP'26*] **Qiqi Gu**\*, Chenpeng Wu\*, Heng Shi, and Jianguo Yao. SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping, in Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming. 2026.
 - [*EuroSys'25*] Chenpeng Wu\*, **Qiqi Gu**\*, Heng Shi, Jianguo Yao, and Haibing Guan. Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores, in Proceedings of the Twentieth European Conference on Computer Systems. 2025: 293-310.
 
