@@ -32,6 +32,8 @@ My research interests includes **System Optimization for Artificial Intelligence
 
 - [*SC'26*] **Qiqi Gu**\*, Chenpeng Wu\*, Heng Shi, Jianguo Yao, and Haibing Guan. Do We Need Tensor Cores for Stencil Computations?, in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. 2026. **Best Student Paper Nominee.**
 - [*SC'26*] Heng Shi, **Qiqi Gu**, Chenpeng Wu, Xiaofeng Guan, Sijie Wu, Enming Fan, Guoqing Bao, and Jianguo Yao. Pushing the Limits of Structured Sparse GEMM on Hopper GPUs via Analytical Modeling, in Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. 2026.
+- [ATC'26] Chenpeng Wu, **Qiqi Gu**, Heng Shi, Jianguo Yao, and Haibing Guan. SptcAttn: Accelerating Long-Context Attention with Diagonal Stripes using Sparse Tensor Core, in Proceedings of the USENIX Annual Technical Conference. 2026.
+- [ATC'26] Heng Shi, Xiaofeng Guan, Sijie Wu, Enming Fan, Chenpeng Wu, **Qiqi Gu**, Jiahang Xie, Guoqing Bao, and Jianguo Yao. A Novel AI-Native GPU Kernel Programming Language for Autonomous Kernel Tuning, in Proceedings of the USENIX Annual Technical Conference. 2026.
 - [*PPoPP'26*] **Qiqi Gu**\*, Chenpeng Wu\*, Heng Shi, and Jianguo Yao. SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping, in Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming. 2026.
 - [*EuroSys'25*] Chenpeng Wu\*, **Qiqi Gu**\*, Heng Shi, Jianguo Yao, and Haibing Guan. Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores, in Proceedings of the Twentieth European Conference on Computer Systems. 2025: 293-310.
 
